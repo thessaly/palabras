@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Palabras
 paginate:       5
 baseurl:        "/palabras"
-url:            "https://jarancio.github.io"
+url:            "https://thessaly.github.io"
 
 # Assets
 sass:
