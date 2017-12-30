@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Palabras
 paginate:       5
 baseurl:        "/palabras"
 url:            "https://jarancio.github.io"
@@ -17,7 +17,7 @@ markdown:       kramdown
 
 # About
 author:
-  name:         julieta
+  name:         Julieta
   url:          
   email:        julieta@rlab.be
 
