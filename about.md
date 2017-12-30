@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "sobre mí"
+title: "sobre esto"
 author: "julieta"
 permalink: /about/
 ---
