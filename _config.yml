@@ -4,8 +4,8 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Tale
 paginate:       5
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+baseurl:        "/palabras"
+url:            "https://jarancio.github.io"
 
 # Assets
 sass:
@@ -17,15 +17,15 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         julieta
+  url:          
+  email:        julieta@rlab.be
 
 # Custom vars
-version:        3.4.1
+version:       
 github:
-  repo:         https://github.com/chesterhow/tale
-
+  repo:         
+  
 # Gems
 plugins:
   - jekyll-paginate
